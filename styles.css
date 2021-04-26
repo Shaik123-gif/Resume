@@ -1,0 +1,107 @@
+body
+{
+	background-color: #beca5c;
+}
+.home_img
+{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 15px;
+}
+.title
+{
+	text-align: center;
+	font-family: Sanchez;
+}
+#navbarSupportedContent
+{
+	margin-left: 700px;
+	font-family: Sanchez;
+}
+.nav-link:hover
+{
+	background-color: #ebd8b7;
+}
+.navbar-brand
+{
+	font-family: Sanchez;
+}
+.Special
+{
+	text-align: left;
+}
+
+table,tr,td,th
+{
+	border:1px solid;
+	padding:10px;
+	text-align: center;
+}
+table
+{
+	margin-left: 20%;
+}
+.edu_title
+{
+	margin-left: 20%;
+	padding:30px;
+}
+.edu_img
+{
+	width: 200px;
+	height: 200px;
+	float: right;
+	margin-right: 200px; 
+}
+
+#robo
+{
+	width: 100px;
+	height: 100px;
+	border:2px solid red;
+	border-radius: 100%;
+	margin-right: 10px;
+}
+.work
+{
+	width: 400px;
+	height: 250px;
+	float: right;
+	margin-right: 30px;
+	margin-top: 100px;
+}
+#intern_title
+{
+	margin-left: -450px;
+}
+.skill
+{
+	width: 100px;
+	height: 100px;
+	margin: 30px;
+	border-radius: 100%;
+}
+
+.skill:hover
+{
+	box-shadow:20px 20px 10px grey;  
+}
+.video
+{
+	width: 400px;
+	height: 200px;
+}
+.icon
+{
+	margin:20px;
+	margin-top:100px;
+}
+.copy
+{
+	margin-top: 100px;
+}
+#contact_title
+{
+	margin-bottom: 30px;
+}
